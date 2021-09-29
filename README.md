@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Anytihng
 - 📫 How to reach me: adilaxmdv@protonmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am half Finnish
+- ⚡ Fun fact: I am from Azerbaijan 🇦🇿
 
