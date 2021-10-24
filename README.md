@@ -6,6 +6,7 @@
 - 📫 How to reach me **adilaxmdv@protonmail.com**
 
 - ⚡ Fun fact **I think Robot's are Dangerous**
+- computer 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
