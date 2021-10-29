@@ -1,8 +1,7 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adil </h1>
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" />
 
-
-- 💬 Ask me about **python**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **adilaxmdv@protonmail.com**
 
