@@ -1,4 +1,4 @@
-<img width="40%" height="auto" src="https://media4.giphy.com/media/YQitE4YNQNahy/200.gif" height="140px"/></a>
+<a><align="right"img width="40%" height="auto" src="https://media4.giphy.com/media/YQitE4YNQNahy/200.gif" height="140px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adil </h1>
 
 - 💬 Ask me about **Python**
