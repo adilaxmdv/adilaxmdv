@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adil Ehmedzade</h1>
 
-- 💬 Ask me about **Python**
+- 🌱 I’m currently learning **Data Science**
+
+- 💬 Ask me about **Python, Data Science**
 
 - 📫 How to reach me **adilaxmdv@protonmail.com**
-
-- ⚡ Fun fact **I think Robot's are Dangerous** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
