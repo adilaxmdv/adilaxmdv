@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adilaxmedov1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adilaxmedov1" height="30" width="40" />/a>
+<a href="https://twitter.com/adilaxmedov1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adilaxmedov1" height="30" width="40" />
  <a href="https://www.linkedin.com/in/adil-ehmedzade-68a594223/" target = "blank"><img align="center" src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.keesingtechnologies.com%2Fwp-content%2Fuploads%2F2018%2F07%2FLinkedin-Icon.png&f=1&nofb=1" alt=Linkedin height = "40"
  width ="40"</p>
 <h3 align="left">Languages and Tools:</h3>
