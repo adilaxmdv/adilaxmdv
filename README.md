@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Python, Data Science**
+- 💬 Ask me about **Python, Backend**
 - 
 - 📫 How to reach me **adilaxmdv@protonmail.com**
 
