@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist, Junior Python Developer</h3>
 
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Python Web Developer**
 
 - 💬 Ask me about **Python, Backend**
 - 
