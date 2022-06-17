@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adil Ehmedzade</h1>
-<h3 align="center">Data Scientist, Junior Python Developer</h3>
+<h3 align="center">Python Web Developer, Junior Python Developer</h3>
 
 
 - 🌱 I’m currently learning **Python Web Developer**
