@@ -2,7 +2,7 @@
 <h3 align="center">Python Web Developer, Junior Python Developer</h3>
 
 
-- 🌱 I’m currently learning **Python Web Developer**
+- 🌱 I’m currently learning **django**
 
 - 💬 Ask me about **Python, Backend**
 - 
